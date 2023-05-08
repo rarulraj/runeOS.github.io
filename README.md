@@ -1,1 +1,1 @@
-Website for Operating System by Arun Arulraj and Jared Patterson
+Website for Rust Based OS by Arun Arulraj and Jared Patterson
